@@ -30,6 +30,7 @@
 ![Screenshot 2023-11-21 193050](https://github.com/rdivyav/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148604723/0c6c7676-a504-47da-a677-aedaf7c384fa)
 
 ## Output:
+![Screenshot 2024-01-02 180328](https://github.com/rdivyav/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/148604723/7522500a-ee37-4f68-8b7c-d15b351df77d)
 
 ### Name:Divya R V
 ### Register Number:23014030
